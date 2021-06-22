@@ -1,0 +1,1 @@
+total ingredients for cake include: eggs, buttermilk, salt, baking powder, baking soda, sugar, coca powder, vanilla extract, oil, flour.
